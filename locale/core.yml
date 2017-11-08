@@ -11,21 +11,21 @@ core:
     add_extension:
       developer_text: "If you're a developer, you can <a>read the docs</a> and have a go at building your own extensions."
       install_text: "In the meantime, you can look for extensions at the <a>Flarum Community site</a> and install them manually using Composer."
-      temporary_text: "One day in the not-too-distant future, this dialog will allow you to add an extension to your forum with ease. We're building an ecosystem as we speak!"
-      title: Add Extension
+      temporary_text: "Ühel päeval mitte liiga kauges tulevikus aitab see dialoog teil hõlpsasti lisada laiendusi foorumisse. Me ehitame ökosüsteemi samal ajal, kui me räägime!"
+      title: Lisa Laiendus
 
     # These translations are used in the Appearance page.
     appearance:
-      colored_header_label: Colored Header
-      colors_heading: Colors
+      colored_header_label: Värviline Päis
+      colors_heading: Värvid
       colors_text: "Choose two colors to theme your forum with. The first will be used as a highlight color, while the second will be used to style background elements."
-      custom_header_heading: Custom Header
+      custom_header_heading: Kohandatud Päis
       custom_header_text: "Add HTML to be displayed at the very top of the page, above Flarum's own header."
-      custom_styles_heading: Custom Styles
+      custom_styles_heading: Kohandatud Stiilid
       custom_styles_text: Customize your forum's appearance by adding your own LESS/CSS code to be applied on top of Flarum's default styles.
-      dark_mode_label: Dark Mode
-      edit_css_button: Edit Custom CSS
-      edit_header_button: Edit Custom Header
+      dark_mode_label: Tume Režiim
+      edit_css_button: Muuda Kohandatud CSS
+      edit_header_button: Muud Kohandatud Päis
       enter_hex_message: Please enter a hexadecimal color code.
       favicon_heading: Favicon
       favicon_text: Upload an image to be displayed as the forum's shortcut icon.
